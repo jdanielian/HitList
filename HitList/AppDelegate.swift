@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  HitList
 //
-//  Created by JayDanielian on 9/29/18.
+//  Created by Jay Danielian on 9/29/18.
 //  Copyright © 2018 Razeware. All rights reserved.
 //
 
